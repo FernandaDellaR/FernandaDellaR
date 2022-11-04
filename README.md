@@ -1,5 +1,6 @@
-Para copiar o código em HTML:
+Para copiar o codigo em HTML:
 
 <html>
         <h1> Meu primeiro arquivo HTML</h1>
 <\html>
+       
